@@ -1,5 +1,5 @@
 {
-    "name": "nemesis/laravel-rest",
+    "name": "attract/laravel-rest",
     "description": "REST actions for controllers",
     "type": "library",
     "version": "3.0.1",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nemesis\\LaravelRest\\": "src/"
+            "Attract\\LaravelRest\\": "src/"
         }
     }
 
