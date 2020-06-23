@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "nemesis/laravel-filter-and-sorting": ">=3.1.0"
+        "attract/laravel-filter-and-sorting": ">=3.1.0"
     },
     "autoload": {
         "psr-4": {
