@@ -1,5 +1,5 @@
 <?php
-namespace Nemesis\LaravelRest\Traits\Actions;
+namespace Attract\LaravelRest\Traits\Actions;
 
 use Illuminate\Http\Response;
 
@@ -7,7 +7,7 @@ use Illuminate\Http\Response;
  * Save entity
  *
  * Class StoreAction
- * @package Nemesis\LaravelRest\Traits\Actions
+ * @package Attract\LaravelRest\Traits\Actions
  *
  * @version 1.0.0
  * @author Bondarenko Kirill <bondarenko.kirill@gmail.com>
