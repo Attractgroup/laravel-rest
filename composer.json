@@ -9,9 +9,6 @@
             "email": "bondarenko.kirill@gmail.com"
         }
     ],
-    "require": {
-        "attract/laravel-filter-and-sorting": ">=3.1.0"
-    },
     "autoload": {
         "psr-4": {
             "Attract\\LaravelRest\\": "src/"
